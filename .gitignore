@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv
+*.venv
+*.sqlite3
+*.db
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.egg-info/
+model.pkl
+*.bak
+*.swp
+*.swo
+# Ignore Docker artifacts
+*.pid
+# Ignore Jupyter/IPython
+.ipynb_checkpoints/
+# Ignore OS generated files
+Thumbs.db
+ehthumbs.db
